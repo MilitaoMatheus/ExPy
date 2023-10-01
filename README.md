@@ -47,9 +47,7 @@ Valorizamos a contribuição da comunidade para enriquecer este repositório. Se
 5. Envie sua branch: git push origin sua-contribuicao.
 6. Abra um pull request para que possamos revisar e incorporar suas contribuições.
 
-##Licença
-Este repositório é distribuído sob a Licença MIT. Sinta-se à vontade para usar o conteúdo deste repositório para fins de aprendizado e projetos pessoais.
-
+## Dúvidas
 Aproveite seu aprendizado em Python e não hesite em entrar em contato se tiver dúvidas ou sugestões!
 
 Divirta-se programando! 🚀🐍
